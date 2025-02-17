@@ -14,10 +14,10 @@ Move the paddle using A and D. Help the ball break all the bricks.
 Built using Unity 2022.3.45f1
 
 ## References
- * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
- * [Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
+ * [Exercise3a Colors and Particles demonstration by Nathan Mishler ](https://www.youtube.com/playlist?list=PLE2TP9DrYC9Z8mkioeagKWN3CAh5jYsSE)
+ * [Shape Character assest, provided by Kenney.nl](https://www.kenney.nl/assets/shape-characters)
  * [Open Color open source color scheme](https://yeun.github.io/open-color/)
- * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
+ * [Birdgo Font](https://www.1001freefonts.com/birdgo.font)
  * [Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
  
 
